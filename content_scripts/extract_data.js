@@ -92,6 +92,7 @@ function getYear(){
     '[itemprop=datePublished]',
     ['[itemprop=dateModified]', 'content'],
     ['[itemprop=datePublished]', 'content'],
+    '[dateCreated]',
     '[id*=updated]',
     ['time[pubdate]','pubdate'],
     '.post_date',
